@@ -8,6 +8,7 @@ import os
 import sys
 import os.path
 
+# 将同一类型的图像汇总
 base_path=r'E:\HW\练习数据\初赛文档\练习数据\csv'
 end_date='2015-05-31'
 start_date='2015-01-01'
